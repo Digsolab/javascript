@@ -3,7 +3,6 @@
 *A mostly reasonable approach to JavaScript*
 
 Other Style Guides
- - [ES5](es5/)
  - [React](react/)
  - [CSS & Sass](https://github.com/digsolab/css-codestyle)
  - [PHP](https://digitalhlab.atlassian.net/wiki/pages/viewpage.action?pageId=71827708)
